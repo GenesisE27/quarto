@@ -3,8 +3,6 @@ title: "My First Quarto Document”"
 format: html
 ---
 
+ ## My Header
 
-
-```{r}
-6 + 3
-```
+You can do a lot of cool things in Quarto like **bold** and *italic* text.
