@@ -1,0 +1,10 @@
+---
+title: "My First Quarto Document”"
+format: html
+---
+
+
+
+```{r}
+6 + 3
+```
