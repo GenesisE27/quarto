@@ -1,0 +1,29 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"My Second Quarto Document\"\n",
+        "format: html\n",
+        "---\n",
+        "\n",
+        "\n",
+        "```{execute: echo:false}\n",
+        "library(tidyverse)\n",
+        "```"
+      ],
+      "id": "75f8c056"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
